@@ -1,0 +1,4 @@
+*.png
+*.pth
+plot.py
+data/long_train.npy
